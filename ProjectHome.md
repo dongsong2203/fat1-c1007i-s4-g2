@@ -1,0 +1,2 @@
+Music, Game, Movie is an important part of our life. Nowadays, listening to music online is hobby of most modern people. So you need to build website where users will get relevant information about the latest music, game, movie releases in the market.
+This website has web pages that give information about the new releases in the field of music, game, and movie in the National market.
